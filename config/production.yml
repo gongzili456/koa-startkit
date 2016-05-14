@@ -1,0 +1,18 @@
+upyun:
+  bucket:
+  operator:
+  password:
+  domain:
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+
+db:
+  uri:
+  options:
+
+weixin:
+  appId: 
+  appSecret:
+  redirect_uri:
